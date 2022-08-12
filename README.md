@@ -6,7 +6,7 @@ The code was tested on Python 3.8.0. Run the following command to install the de
 ```bash
 pip install -r requirements.txt
 ```
-If autopy installation fails check [website](https://pypi.org/project/autopy/) for other installation options.
+If autopy installation fails check [autopy website](https://pypi.org/project/autopy/) for other installation options.
 
 ## Using the mouse
 - Run the `mouse.py` script, which opens the webcam output on your display.
@@ -20,3 +20,5 @@ If autopy installation fails check [website](https://pypi.org/project/autopy/) f
 <p align="center">
   <img src="assets/click.png" width="500">
 </p>
+
+- Have fun with the Hand Tracking Mouse.
