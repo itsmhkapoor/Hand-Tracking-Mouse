@@ -1,5 +1,5 @@
 # Hand Tracking Mouse
-A simple OpenCV and Mediapipe based hand detector that acts as a mouse for your computer.
+A simple OpenCV and Mediapipe based hand tracker that acts as a mouse for your computer.
 
 ## Installation requirements
 The code was tested on Python 3.8.0. Run the following command to install the dependencies.
